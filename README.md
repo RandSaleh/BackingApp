@@ -1,3 +1,3 @@
 # BackingApp
-You can just follow our recipe  and master the checf sweet :)
-This is  Full feature android Application, its utilies fragment,widget and many ! 
+Project Overview
+This app is taken from a functional state to a production-ready state. I added  accessibility features, allowing for localization, adding a widget, and adding a library.
